@@ -1,4 +1,4 @@
-# Nonlinear-Observer-for-attitude-estimation
+# Nonlinear Observer for attitude estimation
 This repository contains the  Matlab code implementation of the research paper entitled: Posture and body acceleration tracking by inertial and magnetic sensing: Application in behavioral analysis of free-ranging animals publisheb by [Hassen Fourati](http://www.gipsa-lab.grenoble-inp.fr/page_pro.php?vid=1442), [Noureddine Manamanni](https://scholar.google.fr/citations?user=5TC6oaIAAAAJ&hl=fr), [Lissan Afilal](https://www.researchgate.net/profile/Lissan-Afilal) and [Yves Handrich
 ](https://www.researchgate.net/profile/Yves-Handrich). 
 
